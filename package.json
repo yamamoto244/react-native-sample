@@ -8,13 +8,17 @@
   },
   "dependencies": {
     "react": "16.6.1",
-    "react-native": "0.57.7"
+    "react-native": "0.57.7",
+    "tslib": "^1.9.3"
   },
   "devDependencies": {
+    "@types/react": "^16.7.18",
+    "@types/react-native": "^0.57.23",
     "babel-jest": "23.6.0",
     "jest": "23.6.0",
     "metro-react-native-babel-preset": "0.50.0",
-    "react-test-renderer": "16.6.1"
+    "react-test-renderer": "16.6.1",
+    "typescript": "^3.2.2"
   },
   "jest": {
     "preset": "react-native"
